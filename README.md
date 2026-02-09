@@ -1,2 +1,2 @@
-# Ensino
-Repositorio de material de ensino
+# Teaching
+Repository for my classnotes on dynamics of structures. Here, the following graduate coursed are considered: PEF 5737 - Nonlinear Dynamics and Stability and PEF 6000 - Special topis on dynamics of structures.
